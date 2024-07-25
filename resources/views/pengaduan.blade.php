@@ -160,8 +160,6 @@
             class="form-pengaduan-input"
             required
           />
-          <span id="email-error" class="error"></span>
-          <span id="email-success" class="success"></span>
         </div>
         <br />
 
